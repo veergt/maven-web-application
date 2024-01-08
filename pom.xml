@@ -103,8 +103,8 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>maven-snapshots </name>
-	      <url>http://ec2-34-227-172-56.compute-1.amazonaws.com:8081/repository/maven-snapshots/</url>
+	      <name>Nexus-Proj-08-Snapshot</name>
+	      <url>http://ec2-54-175-53-91.compute-1.amazonaws.com:8081/repository/Nexus-Proj-08-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
