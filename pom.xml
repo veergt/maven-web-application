@@ -95,16 +95,16 @@
 	
 	<distributionManagement>
 	
-	    <!--<repository>
+	    <repository>
 	      <id>nexus</id>
-	      <name>maven-releases</name>
-	      <url>http://ec2-34-227-172-56.compute-1.amazonaws.com:8081/repository/maven-releases/</url>
-	    </repository> -->
+	      <name>Test-Pipeline-1-Release</name>
+	      <url>http://52.91.144.181:8081/repository/Test-Pipeline-1-Release/</url>
+	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Nexus-Proj-08-Snapshot</name>
-	      <url>http://ec2-54-175-53-91.compute-1.amazonaws.com:8081/repository/Nexus-Proj-08-Snapshot/</url>
+	      <name>Test-Pipeline-1-Snapshot</name>
+	      <url>http://52.91.144.181:8081/repository/Test-Pipeline-1-Snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
